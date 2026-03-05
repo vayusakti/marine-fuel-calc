@@ -1,0 +1,102 @@
+{
+    "arch": "arm64",
+    "build": "hcbb3090_18",
+    "build_number": 18,
+    "build_string": "hcbb3090_18",
+    "channel": "conda-forge",
+    "constrains": [
+        "libgcc-ng ==15.2.0 *_18",
+        "libgomp 15.2.0 18"
+    ],
+    "depends": [
+        "_openmp_mutex"
+    ],
+    "extracted_package_dir": "/Users/amit/.local/share/mamba/pkgs/libgcc-15.2.0-hcbb3090_18",
+    "files": [
+        "lib/libatomic.1.dylib",
+        "lib/libatomic.dylib",
+        "lib/libgcc_s.1.1.dylib",
+        "lib/libquadmath.0.dylib",
+        "lib/libquadmath.dylib",
+        "share/info/libgomp.info",
+        "share/info/libquadmath.info",
+        "share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION"
+    ],
+    "fn": "libgcc-15.2.0-hcbb3090_18.conda",
+    "license": "GPL-3.0-only WITH GCC-exception-3.1",
+    "link": {
+        "source": "/Users/amit/.local/share/mamba/pkgs/libgcc-15.2.0-hcbb3090_18",
+        "type": 1
+    },
+    "md5": "92df6107310b1fff92c4cc84f0de247b",
+    "name": "libgcc",
+    "package_tarball_full_path": "/Users/amit/.local/share/mamba/pkgs/libgcc-15.2.0-hcbb3090_18.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/libatomic.1.dylib",
+                "path_type": "hardlink",
+                "sha256": "381ab415f3690a20661e403f8e8253618fe7addd49c33a807c33401e0fd833aa",
+                "sha256_in_prefix": "381ab415f3690a20661e403f8e8253618fe7addd49c33a807c33401e0fd833aa",
+                "size_in_bytes": 94640
+            },
+            {
+                "_path": "lib/libatomic.dylib",
+                "path_type": "softlink",
+                "sha256_in_prefix": "381ab415f3690a20661e403f8e8253618fe7addd49c33a807c33401e0fd833aa",
+                "size_in_bytes": 94640
+            },
+            {
+                "_path": "lib/libgcc_s.1.1.dylib",
+                "path_type": "hardlink",
+                "sha256": "82828b11b85c450a25699aa688a7795ed1c179552262d5358948faea3952b1ab",
+                "sha256_in_prefix": "82828b11b85c450a25699aa688a7795ed1c179552262d5358948faea3952b1ab",
+                "size_in_bytes": 181072
+            },
+            {
+                "_path": "lib/libquadmath.0.dylib",
+                "path_type": "hardlink",
+                "sha256": "6b73c5dcfcde15f6231521ad2cb6eed6cee4d6c659ad8f028025e31d619abfce",
+                "sha256_in_prefix": "6b73c5dcfcde15f6231521ad2cb6eed6cee4d6c659ad8f028025e31d619abfce",
+                "size_in_bytes": 354336
+            },
+            {
+                "_path": "lib/libquadmath.dylib",
+                "path_type": "softlink",
+                "sha256_in_prefix": "6b73c5dcfcde15f6231521ad2cb6eed6cee4d6c659ad8f028025e31d619abfce",
+                "size_in_bytes": 354336
+            },
+            {
+                "_path": "share/info/libgomp.info",
+                "path_type": "hardlink",
+                "sha256": "9183a74823a2193acf72e08915a06714ee3f6de413a6751f3cc265f2764517f6",
+                "sha256_in_prefix": "9183a74823a2193acf72e08915a06714ee3f6de413a6751f3cc265f2764517f6",
+                "size_in_bytes": 359250
+            },
+            {
+                "_path": "share/info/libquadmath.info",
+                "path_type": "hardlink",
+                "sha256": "a8829e58df913add53edc8ec5570a17d6800a98fb69272ba7a18d54b08ba8f48",
+                "sha256_in_prefix": "a8829e58df913add53edc8ec5570a17d6800a98fb69272ba7a18d54b08ba8f48",
+                "size_in_bytes": 36603
+            },
+            {
+                "_path": "share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION",
+                "path_type": "hardlink",
+                "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+                "sha256_in_prefix": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+                "size_in_bytes": 3324
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "osx",
+    "requested_spec": "",
+    "sha256": "1d9c4f35586adb71bcd23e31b68b7f3e4c4ab89914c26bed5f2859290be5560e",
+    "size": 401974,
+    "subdir": "osx-arm64",
+    "timestamp": 1771378877,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libgcc-15.2.0-hcbb3090_18.conda",
+    "version": "15.2.0"
+}

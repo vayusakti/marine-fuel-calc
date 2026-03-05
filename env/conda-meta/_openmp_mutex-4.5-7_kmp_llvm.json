@@ -1,0 +1,48 @@
+{
+    "arch": "arm64",
+    "build": "7_kmp_llvm",
+    "build_number": 7,
+    "build_string": "7_kmp_llvm",
+    "channel": "conda-forge",
+    "depends": [
+        "llvm-openmp >=9.0.1"
+    ],
+    "extracted_package_dir": "/Users/amit/.local/share/mamba/pkgs/_openmp_mutex-4.5-7_kmp_llvm",
+    "files": [
+        "lib/libgomp.1.dylib",
+        "lib/libgomp.dylib"
+    ],
+    "fn": "_openmp_mutex-4.5-7_kmp_llvm.conda",
+    "license": "BSD-3-Clause",
+    "link": {
+        "source": "/Users/amit/.local/share/mamba/pkgs/_openmp_mutex-4.5-7_kmp_llvm",
+        "type": 1
+    },
+    "md5": "a44032f282e7d2acdeb1c240308052dd",
+    "name": "_openmp_mutex",
+    "package_tarball_full_path": "/Users/amit/.local/share/mamba/pkgs/_openmp_mutex-4.5-7_kmp_llvm.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/libgomp.1.dylib",
+                "path_type": "softlink",
+                "sha256_in_prefix": "ce4985af1eb24c5cf570933a9234a54353c4b649cd1985fbe4300d67be97d76b"
+            },
+            {
+                "_path": "lib/libgomp.dylib",
+                "path_type": "softlink",
+                "sha256_in_prefix": "ce4985af1eb24c5cf570933a9234a54353c4b649cd1985fbe4300d67be97d76b"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "osx",
+    "requested_spec": "",
+    "sha256": "7acaa2e0782cad032bdaf756b536874346ac1375745fb250e9bdd6a48a7ab3cd",
+    "size": 8325,
+    "subdir": "osx-arm64",
+    "timestamp": 1764092507,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/osx-arm64/_openmp_mutex-4.5-7_kmp_llvm.conda",
+    "version": "4.5"
+}

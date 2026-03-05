@@ -1,0 +1,154 @@
+{
+    "Caterpillar": {
+        "C4.4": {
+            "Rated_kW": 60,
+            "RPM": 1500,
+            "Cooling_Type": "Keel Cooled",
+            "SFOC_Curve": {
+                "25": 255.0,
+                "50": 230.5,
+                "75": 222.0,
+                "100": 224.5
+            },
+            "Type": "High Speed"
+        },
+        "C18": {
+            "Rated_kW": 500,
+            "RPM": 1500,
+            "Cooling_Type": "Heat Exchanger",
+            "SFOC_Curve": {
+                "25": 235.0,
+                "50": 215.0,
+                "75": 208.5,
+                "100": 211.0
+            },
+            "Type": "High Speed"
+        },
+        "3516C": {
+            "Rated_kW": 1830,
+            "RPM": 1500,
+            "Cooling_Type": "Keel Cooled/HE",
+            "SFOC_Curve": {
+                "25": 212.0,
+                "50": 198.5,
+                "75": 192.0,
+                "100": 195.5
+            },
+            "Type": "High Speed"
+        }
+    },
+    "Cummins": {
+        "QSB7": {
+            "Rated_kW": 150,
+            "RPM": 1500,
+            "Cooling_Type": "Heat Exchanger",
+            "SFOC_Curve": {
+                "25": 248.5,
+                "50": 225.0,
+                "75": 218.0,
+                "100": 220.5
+            },
+            "Type": "High Speed"
+        },
+        "KTA38": {
+            "Rated_kW": 880,
+            "RPM": 1500,
+            "Cooling_Type": "Keel Cooled",
+            "SFOC_Curve": {
+                "25": 225.0,
+                "50": 208.0,
+                "75": 202.5,
+                "100": 205.0
+            },
+            "Type": "High Speed"
+        },
+        "QSK60": {
+            "Rated_kW": 1900,
+            "RPM": 1500,
+            "Cooling_Type": "Heat Exchanger",
+            "SFOC_Curve": {
+                "25": 210.0,
+                "50": 196.5,
+                "75": 190.5,
+                "100": 192.5
+            },
+            "Type": "High Speed"
+        }
+    },
+    "Volvo Penta": {
+        "D4": {
+            "Rated_kW": 115,
+            "RPM": 1500,
+            "Cooling_Type": "Heat Exchanger",
+            "SFOC_Curve": {
+                "25": 252.0,
+                "50": 228.0,
+                "75": 220.5,
+                "100": 223.0
+            },
+            "Type": "High Speed"
+        },
+        "D13": {
+            "Rated_kW": 350,
+            "RPM": 1500,
+            "Cooling_Type": "Radiator/HE",
+            "SFOC_Curve": {
+                "25": 238.5,
+                "50": 218.5,
+                "75": 210.0,
+                "100": 213.5
+            },
+            "Type": "High Speed"
+        },
+        "D16 MH": {
+            "Rated_kW": 450,
+            "RPM": 1500,
+            "Cooling_Type": "Heat Exchanger",
+            "SFOC_Curve": {
+                "25": 230.0,
+                "50": 212.0,
+                "75": 205.5,
+                "100": 208.0
+            },
+            "Type": "High Speed"
+        }
+    },
+    "Yanmar": {
+        "6EY18": {
+            "Rated_kW": 450,
+            "RPM": 900,
+            "Cooling_Type": "Central Fresh Water",
+            "SFOC_Curve": {
+                "25": 220.0,
+                "50": 202.0,
+                "75": 195.5,
+                "100": 198.0
+            },
+            "Type": "Medium Speed"
+        },
+        "6EY26": {
+            "Rated_kW": 1400,
+            "RPM": 750,
+            "Cooling_Type": "Central Fresh Water",
+            "SFOC_Curve": {
+                "25": 205.0,
+                "50": 190.5,
+                "75": 185.0,
+                "100": 187.5
+            },
+            "Type": "Medium Speed"
+        },
+        "6N330": {
+            "Rated_kW": 2400,
+            "RPM": 720,
+            "Cooling_Type": "Heat Exchanger",
+            "SFOC_Curve": {
+                "25": 200.0,
+                "50": 186.0,
+                "75": 181.5,
+                "100": 184.0
+            },
+            "Type": "Medium Speed"
+        }
+    }
+}
